@@ -1,4 +1,4 @@
-﻿![Screenshot](logoGestorDocumental.png)     * **Gestor Documental **
+﻿![Screenshot](logoGestorDocumental.png)     ** Gestor Documental **
 
 -------------------------------------------------------------
 
