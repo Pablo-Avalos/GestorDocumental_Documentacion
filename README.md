@@ -1,4 +1,4 @@
-﻿https://raw.githubusercontent.com/parzibyte/Pablo-Avalos/https://github.com/Pablo-Avalos/GestorDocumental_Documentacion/blob/master/logoGestorDocumental.png
+﻿![alt text](https://raw.githubusercontent.com/Pablo-Avalos/GestorDocumental_Documentacion/blob/master/logoGestorDocumental.png)
 
 Gestor Documental
 
