@@ -1,4 +1,4 @@
-﻿https://raw.githubusercontent.com/Pablo-Avalos/https://github.com/Pablo-Avalos/GestorDocumental_Documentacion/blob/master/logoGestorDocumental.png
+﻿https://raw.githubusercontent.com/parzibyte/Pablo-Avalos/https://github.com/Pablo-Avalos/GestorDocumental_Documentacion/blob/master/logoGestorDocumental.png
 
 Gestor Documental
 
