@@ -1,8 +1,8 @@
-﻿![Screenshot](logoGestorDocumental.png)
+﻿![Screenshot](logoGestorDocumental.png)     Gestor Documental
 
-Gestor Documental
+-------------------------------------------------------------
 
-El PROCESO consta de tres etapas:
+El proceso consta de tres etapas detalladas a continuación:
 
 ADMINISTRACIÓN: En la solapa de administración, se gestionan las bajas, altas y modificaciones de los clientes, tipos de documento, procesos y subprocesos.
 
