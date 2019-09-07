@@ -1,4 +1,6 @@
-﻿Gestor Documental
+﻿https://raw.githubusercontent.com/Pablo-Avalos/https://github.com/Pablo-Avalos/GestorDocumental_Documentacion.git/master/logoGestorDocumental.png
+
+Gestor Documental
 
 El PROCESO consta de tres etapas:
 
