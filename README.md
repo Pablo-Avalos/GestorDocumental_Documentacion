@@ -1,4 +1,4 @@
-﻿![alt text](https://raw.githubusercontent.com/Pablo-Avalos/GestorDocumental_Documentacion/master/logoGestorDocumental.png)
+﻿![Screenshot](logoGestorDocumental.png)
 
 Gestor Documental
 
