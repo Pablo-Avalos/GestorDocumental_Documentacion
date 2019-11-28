@@ -1,4 +1,4 @@
-﻿![Screenshot](logo.png)     ** Gestor Documental **
+﻿![Screenshot](logo.png)     ## Gestor Documental ##
 
 -------------------------------------------------------------
 
