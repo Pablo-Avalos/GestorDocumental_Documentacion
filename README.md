@@ -15,3 +15,5 @@ CONSULTA: En la solapa de búsqueda, se ingresan los filtros necesarios para bus
 Gestor Documental Frontend: https://github.com/Pablo-Avalos/GestorDocumental_Frontend.git
 
 Gestor Documental Backend: https://github.com/Pablo-Avalos/GestorDocumental_Backend.git
+
+Trello: https://trello.com/b/HLhBfrjv/gestor-documental
